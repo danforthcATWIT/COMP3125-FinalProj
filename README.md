@@ -1,8 +1,16 @@
 # COMP3125-FinalProj
 
-In the era where job mobility is common among multiple STEM fields, the analysis of salary data is of upmost importance when deciding what field to work in as well as what company. This paper attempts to analyze salary data regarding data analysts by asking questions that allows people to gain insight into this specific field. This dataset covers multiple facets impacting salary, such as experience levels, job titles, employment types and the ratio that such person works remotely. This paper will show how all these factors contribute to or diminish salary by asking three questions of the dataset. First, the analysis on whether there are significant variations in salaries across different countries. Secondly, what the correlation is between the extent of remove work and salary levels or rather are employees who work remotely more often compensated differently than those who predominantly work in office. Finally, how does the choice of job title impact salary levels within the data as well as are there any trends associated with specific job titles across different experience levels. In the context of the data analytic salaries, this paper hopes to show the influences of job title, remote work dynamics, and global variations, offering insight to current and future professionals navigating the landscape of STEM career mobility.
+## Introduction
+  In the era where job mobility is common among multiple STEM fields, the analysis of salary data is of upmost importance when deciding what field to work in as well as what company. This paper attempts to analyze salary data regarding data analysts by asking questions that allows people to gain insight into this specific field. This dataset covers multiple facets impacting salary, such as experience levels, job titles, employment types and the ratio that such person works remotely. This paper will show how all these factors contribute to or diminish salary by asking three questions of the dataset. First, the analysis on whether there are significant variations in salaries across different countries. Secondly, what the correlation is between the extent of remove work and salary levels or rather are employees who work remotely more often compensated differently than those who predominantly work in office. Finally, how does the choice of job title impact salary levels within the data as well as are there any trends associated with specific job titles across different experience levels. In the context of the data analytic salaries, this paper hopes to show the influences of job title, remote work dynamics, and global variations, offering insight to current and future professionals navigating the landscape of STEM career mobility.
 
+## Data Selection and Cleaning
 Dataset: https://www.kaggle.com/datasets/piyushborhade/salary-of-data-scientists/data 
+
+The data contains important information regarding the salary of data scientists including, salary in USD, experience level, job titles, employment types such as full-time or part-time, whether the employee is in-person or a remote worker, and employee residency.
+
+Preview of the Data: 
+![image](https://github.com/danforthcATWIT/COMP3125-FinalProj/assets/90588626/762caa83-5000-44d3-aaae-38bfece24adb)
+
 
 Methodology: 
 •	Data cleaning: removing missing values, outliers, and inconsistencies.
