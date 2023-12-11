@@ -76,9 +76,32 @@ Job title has a significant impact on salary, as leader roles get paid significa
 
 ![image](https://github.com/danforthcATWIT/COMP3125-FinalProj/assets/90588626/011aef0a-920f-4b9f-b5fb-ffba9a2ac32f)
 
+## Discussion
 
+### Global Salary Disparities 
 
+Contributing Factors of the disparities:
 
-![image](https://github.com/danforthcATWIT/COMP3125-FinalProj/assets/90588626/d494d6d3-7b10-45fb-a0d5-885a69285d69)
+Several potential factors could contribute to the identified variations. Economic conditions, cost of living, and currency exchange rates are essential considerations. Additionally, differences in labor market dynamics, industry structures, and governmental policies may play pivotal roles. Understanding the specific influence of each factor requires further investigation and could serve as a basis for more targeted compensation strategies.
 
+### Remote Work and Compensation 
+
+Correlation vs. Causation:
+
+The correlation analysis between remote work ratio and salary levels provides intriguing insights into potential trends. However, it is crucial to emphasize that correlation does not imply causation. While our findings suggest a weak negative correlation, additional factors, such as job responsibilities, industry norms, and individual performance, may contribute to the observed relationship.
+
+### Job Title Impact on Salary
+
+Implications for Talent Management:
+
+Understanding the influence of job titles on compensation is paramount for effective talent management. Organizations can leverage these insights to refine job classification structures, ensuring that employees are fairly compensated based on their roles and responsibilities.
+
+## Conclusion
+
+The research provides insightful information about the intricacies of international wage systems, the dynamics of remote employment, and how job titles affect pay. The discrepancies that have been found highlight the necessity for businesses to implement context- and talent-specific remuneration plans. Research and flexibility will be essential in promoting fair and competitive compensation systems as the professional field changes.
+
+## References
+
+https://www.statisticssolutions.com/free-resources/directory-of-statistical-analyses/anova/
+https://www.kaggle.com/datasets/piyushborhade/salary-of-data-scientists/code
 
